@@ -38,8 +38,8 @@
 }
 
 .Quiz .option:focus {
-  background-color: rgb(211, 22, 211);
-  border: 3px solid white;
+  background-color: rgb(32, 87, 239);
+  border: 2px solid rgb(255, 255, 255);
   color: white;
 }
 
